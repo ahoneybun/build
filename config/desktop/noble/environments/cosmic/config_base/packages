@@ -96,6 +96,7 @@ pulseaudio
 pulseaudio-module-bluetooth
 qalculate-gtk
 redshift
+sddm
 slick-greeter
 smbclient
 software-properties-gtk
